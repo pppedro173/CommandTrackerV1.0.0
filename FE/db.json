@@ -1,0 +1,14 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "howTo": "How to create migrations",
+      "line": "dotnet ef add migrations [MigrationName]"
+    },
+    {
+      "text": "Test two",
+      "howTo": "How to create migrations",
+      "line": "dotnet ef add migrations [MigrationName]"
+    }
+  ]
+}
